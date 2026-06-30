@@ -31,10 +31,10 @@ This project analyzes over 52,000 Myntra product records using Python and Power 
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard.png image here)
+![Dashboard](dashboard.png)
 
 ## 📁 Project Files
-- Myntra_Product_Analytics_Dashboard.pbix
+- Myntra_Product_Analytics_.pbix
 - Myntra_Product_Analysis.ipynb
 - Cleaned_Myntra_Dataset.csv
 
